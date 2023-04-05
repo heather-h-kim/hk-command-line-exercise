@@ -1,0 +1,4 @@
+Favorite fruit: peach
+Favorite color: green
+Favorite holiday: Thanksgiving
+Favorite animal: cat
